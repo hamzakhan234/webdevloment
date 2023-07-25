@@ -1,4 +1,74 @@
-.my{
-    width: 70%;
-    height: 15%;
+h1{
+    background-color: blueviolet;
+}
+.d1{
+    background-color: blue;
+    height: 80px;
+    width: 150px;   
+}
+.d2{
+    background-color: black;
+    height: 100px;
+    width: 150px;
+    margin-top: -60px;
+}
+/* .para{
+    border: 1px solid;
+    max-width:800px; ;
+    height: 100% ;
+    
+
+} */
+
+.d3 {
+    border: 1px solid ;
+    overflow: scroll;
+    max-width: 400px;
+}
+.p::first-letter{
+    text-transform:uppercase;
+
+}
+.d3 img{
+width: 100%;
+
+}
+p.file2{
+  border:2px solid;  
+  border-width: 8px;
+  border-style: dashed;
+  border-color: darkcyan;
+  
+}
+  li{
+    display: inline;
+    padding-left: 12px;
+    background-color: black;
+    color: white;  
+
+}
+ol{
+    margin-left: -50px;
+}
+.folder{
+    padding : 12px;
+    background-color: navy;color:white
+}
+ol {background-color: black;color:white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+input:active{
+
 }
