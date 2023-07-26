@@ -1,74 +1,15 @@
-h1{
-    background-color: blueviolet;
+tr:hover{
+    background-color:aqua;
 }
-.d1{
-    background-color: blue;
-    height: 80px;
-    width: 150px;   
+.MY{
+    padding-left: 50px;
 }
-.d2{
-    background-color: black;
-    height: 100px;
-    width: 150px;
-    margin-top: -60px;
+.it{
+    padding-top: 10px;
 }
-/* .para{
-    border: 1px solid;
-    max-width:800px; ;
-    height: 100% ;
-    
+.ever{background-color: gray;}
 
-} */
+ tr.who{
 
-.d3 {
-    border: 1px solid ;
-    overflow: scroll;
-    max-width: 400px;
-}
-.p::first-letter{
-    text-transform:uppercase;
-
-}
-.d3 img{
-width: 100%;
-
-}
-p.file2{
-  border:2px solid;  
-  border-width: 8px;
-  border-style: dashed;
-  border-color: darkcyan;
-  
-}
-  li{
-    display: inline;
-    padding-left: 12px;
-    background-color: black;
-    color: white;  
-
-}
-ol{
-    margin-left: -50px;
-}
-.folder{
-    padding : 12px;
-    background-color: navy;color:white
-}
-ol {background-color: black;color:white;
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-input:active{
-
-}
+    border: blue;
+ }   
