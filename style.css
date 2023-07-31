@@ -1,15 +1,17 @@
-tr:hover{
-    background-color:aqua;
+.my{
+    background-image: url("../download.jpg");
+    background-size: 18px;
+    background-repeat:no-repeat;
+    padding: 2px 0px 4px 17px;
 }
-.MY{
-    padding-left: 50px;
+.me{
+    background-image: url("../image.jpg");
+    background-size: 18px;
+    background-repeat:no-repeat;
+    padding: 2px 0px 4px 17px;
 }
-.it{
-    padding-top: 10px;
+.file{
+    background-color: darkred;
+     color: white;
+     margin-left: 100px;
 }
-.ever{background-color: gray;}
-
- tr.who{
-
-    border: blue;
- }   
